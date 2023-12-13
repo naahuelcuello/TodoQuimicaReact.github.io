@@ -1,0 +1,14 @@
+.BgPropio{
+    background-color: rgb(48, 121, 121);
+    height: 15%;
+}
+.BgPropio h4{
+    color: white;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+}
+.TextNav{
+    color: white;
+}
+
