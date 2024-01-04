@@ -1,8 +1,7 @@
-# React + Vite
+# Proyecto de Entrega Final - Curso de React JS de CoderHouse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## ¿Qué es Todo Química?
 
-Currently, two official plugins are available:
+**Todo Química** representa la finalización de un interesante viaje a lo largo del curso de React JS de CoderHouse. Esta aplicación de comercio electrónico ha sido el resultado de una experiencia intensiva de dos meses y 32 horas de duración, donde exploramos a fondo el mundo del desarrollo web, abordando proyectos de mediana escala y aplicando los conocimientos adquiridos en el Front End.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+El desarrollo de **Todo Química** se llevó a cabo a lo largo de estos dos meses, con una dedicación personal aproximada de 50 horas. Este proyecto refleja el esfuerzo y aprendizaje acumulado durante el curso, demostrando la aplicación práctica de habilidades en React JS en el desarrollo de una aplicación de comercio electrónico.

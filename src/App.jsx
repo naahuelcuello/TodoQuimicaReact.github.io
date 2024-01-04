@@ -22,7 +22,6 @@ const App = () => {
 
             <Route exact path='/cart' element={<Cart/>}/>
 
-            <Route exact path='/checkout' element={<checkout/>}/>
           </Routes>
         </BrowserRouter>
       </CartProvider>
