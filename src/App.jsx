@@ -5,6 +5,7 @@ import ItemListContainer from './components/ItemListContainer'
 import Cart from './components/Cart';
 import ItemDetailContainer from './components/ItemDetailContainer';
 import {CartProvider } from './context/CartContext';
+import SendOrder from './components/SendOrder';
 
 const App = () => {
   const[carrito,setCarrito]=useState ([]);
@@ -21,6 +22,8 @@ const App = () => {
             <Route exact path='/item/:idItem' element={<ItemDetailContainer/>}/>
 
             <Route exact path='/cart' element={<Cart/>}/>
+
+            <Route exact path= "/SendOrder" element= {<SendOrder/>}></Route>
 
           </Routes>
         </BrowserRouter>

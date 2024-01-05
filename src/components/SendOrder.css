@@ -1,0 +1,58 @@
+.formuCompra{
+    margin-left: 40%;
+    margin-top: 2%;
+}
+
+.formuCompra h2{
+    color: white;
+}
+
+.formuCompra h5{
+    color: white;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.ButtonSend{
+    margin-left: 2% ;
+    margin-bottom: 1%;
+}
+
+.DetalleCompra{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 1%;
+}
+
+.DetalleCompra h6{
+    color: white;
+    margin-top: 3% ;
+    background-color: rgb(12, 114, 105);
+    padding: 1%;
+    
+}
+
+.DetalleCompra h2{
+    color: white;
+    margin-top: 3% ;
+    background-color: rgb(12, 114, 105);
+    padding: 1%;
+}
+
+.productoCarrito{
+    color: white;
+    margin-top: 0.5%;
+    text-align: center;
+}
+
+.tituCompra h2{
+    color: white;
+    margin-top: 3% ;
+    background-color: rgb(0, 63, 58);
+    padding: 1%;
+    text-align: center;
+}
+
+span{
+    color: red;
+}

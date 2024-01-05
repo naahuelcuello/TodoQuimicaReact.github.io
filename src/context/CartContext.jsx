@@ -13,7 +13,7 @@ const [carrito, setCarrito] = useState([]);
 const [total, setTotal] = useState(0);
 const [cantidadTotal, setCantidadTotal] = useState(0);
 
-  //Para agregar productos al carrito
+//Para agregar productos al carrito  
 const agregarAlCarrito = (producto, cantidad) => {
     console.log('Agregando al carrito:', producto, 'Cantidad:', cantidad);//agregado
     const productoExistente = carrito.find(prod => prod.id === producto.id);

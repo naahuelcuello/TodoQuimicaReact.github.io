@@ -1,6 +1,6 @@
 const Productos =  [ 
     {id: 1,
-    titulo: "Matraz Aforado",
+    nombre: "Matraz Aforado",
     descripcion: "El matraz aforado es parte del llamado material de vidrio de laboratorio y consiste en un tipo de matraz que se usa como material volumétrico.",
     precio: 100,
     categoria: "Volumetrico",
@@ -8,7 +8,7 @@ const Productos =  [
     imagen:"imagen1"},
       
     {id: 2,
-    titulo: "Probeta",
+    nombre: "Probeta",
     descripcion: "La probeta es un instrumento volumétrico que consiste en un cilindro graduado de vidrio común que permite contener líquidos y sirve para medir volúmenes.",
     precio: 120,
     categoria: "Volumetrico",
@@ -16,7 +16,7 @@ const Productos =  [
     imagen:"imagen2"},
       
     {id: 3,
-    titulo: "Pipeta",
+    nombre: "Pipeta",
     descripcion: "La pipeta es un instrumento volumétrico usado en los laboratorios de ciencias químicas y de ciencias de la vida y la salud que permite medir la alícuota.",
     precio: 150,
     categoria: "Volumetrico",
@@ -24,7 +24,7 @@ const Productos =  [
     imagen:"imagen3"},
       
     {id: 4,
-    titulo: "Termometro",
+    nombre: "Termometro",
     descripcion: "El termómetro es un instrumento de medición de temperatura. Desde su invención ha evolucionado mucho, principalmente a partir del desarrollo de los termómetros digitales. ",
     precio: 175,
     categoria: "Medicion",
@@ -32,7 +32,7 @@ const Productos =  [
     imagen:"imagen4"},
       
     {id: 5,
-    titulo: "Balanza",
+    nombre: "Balanza",
     descripcion: "El termómetro es un instrumento de medición de temperatura. Desde su invención ha evolucionado mucho, principalmente a partir del desarrollo de los termómetros digitales. ",
     precio: 190,
     categoria: "Medicion",
